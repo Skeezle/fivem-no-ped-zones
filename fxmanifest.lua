@@ -1,4 +1,3 @@
-client_script '@ElectronAC/src/include/client.lua'
 fx_version 'cerulean'
 lua54 'yes'
 game 'gta5'
@@ -6,7 +5,7 @@ game 'gta5'
 name 'no_ped_zones'
 description 'PolyZone-based ped suppression'
 author 'Skeezle'
-version '1.0.0'
+version '1.2.0'
 
 client_scripts {
     '@PolyZone/client.lua',
