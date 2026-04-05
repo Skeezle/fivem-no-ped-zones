@@ -38,3 +38,7 @@ Either restart your server or run the following commands in the console:
 Edit **`client.lua`** to define the restricted zones where NPCs and vehicles are blocked.
 
 Create polyzones where you don't want peds or vehicles to spawn
+
+## License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this script, including for commercial use, as long as the original license notice is included.
